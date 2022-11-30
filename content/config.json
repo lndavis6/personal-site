@@ -1,6 +1,6 @@
 {
   "title": "Lance's website",
-  "url": "https://lnd.xyz",
+  "url": "https://lumen.alxshelepenok.com",
   "subtitle": "Lance Davis' website",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
@@ -24,7 +24,7 @@
   "author": {
     "name": "Lance N. Davis",
     "photo": "/photo.jpg",
-    "bio": "Lance Davis is a cryptographer and smart contract developer",
+    "bio": "Hi! I like to read, write, and code. I'm a research engineer at Metagov, and I'm currently working on compositional game theory",
     "contacts": {
       "rss": "",
       "email": "",
