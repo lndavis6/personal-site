@@ -1,14 +1,13 @@
 ---
-title: Combining Product Management and Governance
-date: "2022-12-19T10:20:38.121Z"
+title: Why web3?
+date: "2023-02-05T10:20:38.121Z"
 template: "post"
 draft: false
-slug: "/posts/combining-product-management-and-governance"
-category: "DAOs"
+slug: "/posts/why-web3"
+category: "web3"
 tags:
-  - "Computer Aided Governance"
-description: "This is a response to an explanation of computer-aided governance and how it is used in DAOs. I expand on ideas regarding the product lifecycle and how it can be categorized with governance decision making and feedback processes. It's interesting to see how product management and governance can be related in the future!"
-socialImage: "./media/notebook.jpg"
+
+description: "I reflect on the reason why I am interested in web3 and why it is a technology that is a natural next step in the evolution of our economy and social structure."
 ---
 ### why web3?
 

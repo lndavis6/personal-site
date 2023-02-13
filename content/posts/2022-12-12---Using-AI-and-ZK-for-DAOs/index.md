@@ -1,15 +1,13 @@
 ---
-title: Using AI and ZK for DAOs
-date: "2022-12-12T10:20:38.121Z"
+title: Why web3?
+date: "2023-02-05T10:20:38.121Z"
 template: "post"
 draft: false
-slug: "/posts/using-ai-and-zk-for-daos"
-category: "DAOs"
+slug: "/posts/why-web3"
+category: "web3"
 tags:
-  - "Incentive Mechanisms"
-  - "AI"
-  - "Zero Knowledge Cryptography"
-description: "I respond to a SCRF podcast write up about culture and incentivization in decentralized organizations. The episode features Coordinape's Zach Anderson and RMIT University's Ellie Rennie. I reflect on participation incentives and how we can use technology to get people in DAOs to do more."
+
+description: "I reflect on the reason why I am interested in web3 and why it is a technology that is a natural next step in the evolution of our economy and social structure."
 socialImage: "./media/notebook.jpg"
 ---
 ##### This article is in response to a Smart Contract Research Forum podcast on Culture and Incentivization. Link is here: https://www.smartcontractresearch.org/t/scrf-interviews-culture-and-incentivization-ellie-rennie-and-zach-anderson-ep-3/1249?u=lndavis6
