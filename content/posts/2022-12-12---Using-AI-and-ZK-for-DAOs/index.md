@@ -1,13 +1,13 @@
 ---
-title: Why web3?
-date: "2023-02-05T10:20:38.121Z"
+title: Using AI and ZK for DAOs
+date: "2023-01-19T10:20:38.121Z"
 template: "post"
 draft: false
-slug: "/posts/why-web3"
-category: "web3"
+slug: "/posts/ai-zk-dao"
+category: "DAOs"
 tags:
 
-description: "I reflect on the reason why I am interested in web3 and why it is a technology that is a natural next step in the evolution of our economy and social structure."
+description: "In this article, we explore how AI and zk in web3 can be used to enhance the experience of participating in a decentralized ecosystem. I believe individuality and self actualization is the aim of these democratic systems; AI can help us automate while zk helps us remain private (to an extent). People can use DAOs to find their true niche and contribute in a way that maintains their autonomy."
 socialImage: "./media/notebook.jpg"
 ---
 ##### This article is in response to a Smart Contract Research Forum podcast on Culture and Incentivization. Link is here: https://www.smartcontractresearch.org/t/scrf-interviews-culture-and-incentivization-ellie-rennie-and-zach-anderson-ep-3/1249?u=lndavis6
